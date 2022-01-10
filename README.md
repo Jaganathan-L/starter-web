@@ -14,3 +14,6 @@ Local demployment
 
 ## How TO Comtribute
 
+## Copyright
+2021 jaganathan-l.git
+
