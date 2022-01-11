@@ -17,5 +17,5 @@ Local demployment
 Please fork this repository and the issue Pull Requests for review
 
 ## Copyright
-2021 jaganathan-l.git
+2021 jaganathan-l.git.All rights reserved
 
